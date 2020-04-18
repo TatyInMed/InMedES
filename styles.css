@@ -9,6 +9,8 @@ Tags: two-columns,three-columns,left-sidebar,right-sidebar,custom-background,cus
 Version: 4.2.4.1585298199
 Updated: 2020-03-27 10:36:39
  */
+
+/* added 18.04.2020 */
 .ytp-youtube-button.ytp-button.yt-uix-sessionlink {
 	display: none !important;
 }
@@ -1006,4 +1008,3 @@ Updated: 2020-03-27 10:36:39
 		display: none;
 	}
 }
-
